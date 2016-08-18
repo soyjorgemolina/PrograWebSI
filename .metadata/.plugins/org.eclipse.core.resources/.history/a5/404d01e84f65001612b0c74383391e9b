@@ -1,0 +1,11 @@
+package pe.edu.upc.entity;
+
+public class Clase01 
+{
+	//Atributos de instancia (objeto)
+	private String color;
+	private String sabor;
+	
+	//Atributos de clase
+	public static String LugarOrigen="UPC";
+}
